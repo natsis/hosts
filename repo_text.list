@@ -4,5 +4,32 @@
 #  Add or comment lines to choose which are used.
 #  
 
+https://someonewhocares.org/hosts/hosts
+https://hosts-file.net/ad_servers.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+http://winhelp2002.mvps.org/hosts.txt
+http://sysctl.org/cameleon/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://1hos.cf/complete/domains.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=1
+https://mirror.cedia.org.ec/malwaredomains/justdomains
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://mirror1.malwaredomains.com/files/justdomains
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AdAway-Default-Blocklist.txt
+https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/easylist.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Fanboy-Annoyances-List.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Blocklist.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Quad9.txt
+
+
+## https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist 
+https://hosts.ubuntu101.co.za/hosts
+
 
 
