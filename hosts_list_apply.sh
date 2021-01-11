@@ -28,9 +28,8 @@ validate_url() {
 }
 
 
-
+## Config files are relative to the script path
 echo "Runs from $DIR"
-
 
 
 
