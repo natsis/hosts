@@ -2,5 +2,7 @@
 
 An automated script I use to create hosts list for my linux machines.
 
-It merges lists from different sources.
+- Includes some lists in the configuration.
+- Merges lists from different sources.
+- Accepts custom url entries.
 
