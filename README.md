@@ -1,9 +1,10 @@
 # hosts
 
-An automated script I use to create hosts list for my linux machines.
+An automated bash script I use to create hosts list for my linux machines.
+I use it as crontab command.
 
-- Includes some lists in the configuration.
-- Merges lists from different sources.
+- Already includes some lists in the configuration files.
+- Download and merges lists from different sources.
 - Accepts custom url entries.
 - **Will try to update the host file.**
 
