@@ -2,9 +2,14 @@
 #  Lists of urls paths for host files in text format.
 #
 #  Add or comment lines to choose which are used.
-#  Probably will work list in hosts file format and simple list or urls. 
+#  Probably will work for list in hosts file format and simple list or urls. 
+#
+
+## Some option to consider
+## corporation lists  https://github.com/jmdugan/blocklists/blob/master/corporations
 
 
+## List I use
 
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
@@ -32,5 +37,9 @@ https://v.firebog.net/hosts/Prigent-Ads.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 
+
+## test; https://github.com/jerryn70/GoodbyeAds
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt
 
 
