@@ -16,3 +16,4 @@ I was inspired from [StevenBlack/hosts](https://github.com/StevenBlack/hosts) an
 Here is my new version.
 
 
+*Suggestions and improvements are always welcome.*
