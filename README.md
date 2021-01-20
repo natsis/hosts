@@ -1,6 +1,6 @@
+
 # hosts
 
-test
 
 An automated bash script I use to create hosts list for my linux machines.
 I use it as crontab command.
