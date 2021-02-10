@@ -1,6 +1,12 @@
 
-# hosts
+**This is dead!!**
 
+**Moved to:**
+
+https://github.com/thanasisn/IStillBreakStuff
+
+
+### hosts
 
 An automated bash script I use to create hosts list for my linux machines.
 I use it as crontab command.
